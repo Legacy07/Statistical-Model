@@ -1,4 +1,4 @@
-Year 2 assignment on Algorithms.
+Statistical Model using Numerical Integration
 --------------------------------
 
 A statistical model using numerical integration which involves standard normal distribution; 
